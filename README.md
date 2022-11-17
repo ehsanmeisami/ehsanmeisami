@@ -1,2 +1,2 @@
-Hi, I’m @ehsanmeisami. I am interested in Data Science and AI 👋 <br>
+Hi, I’m Ehsan. I am interested in Data Science and AI 👋 <br>
 If you have any question regarding any repo, you can reach me via my mail whenever you want: ehsan.meisami@gmail.com
