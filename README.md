@@ -1,2 +1,2 @@
 Hi, I’m Ehsan. I am interested in Data Science and AI 👋 <br>
-If you have any question regarding any repo, you can reach me via my mail whenever you want: ehsan.meisami@gmail.com 👀
+If you have any question about any repo, reach me via: ehsan.meisami@gmail.com 👀
